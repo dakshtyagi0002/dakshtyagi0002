@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"># 💫 About Me:</p>
+#<p align="center"># 💫 About Me:</p>
 <p align="center">Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.</p>
 
 <p align="center"># 🎓 Education</p>
