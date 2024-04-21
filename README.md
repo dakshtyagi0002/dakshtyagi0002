@@ -13,9 +13,9 @@
 
 # 🎓 Education:
 - Master's in Business Administration (ongoing)</p>
-+ 8.58 CGPA</p>
+  + 8.58 CGPA</p>
 - Bachelor's in Computer Applications</p>
-+ 9.08 CGPA</p>
+  + 9.08 CGPA</p>
 
 # 🌐 Socials:
 <p align="center">
