@@ -23,7 +23,7 @@ Hey there! I'm passionate about unraveling complex problems and crafting innovat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align = "center"><img src = "https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width = 30%></p>
+<p align = "center"><img src = "https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width = 10%></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dakshtyagi0002&icon=0&color=0)](https://visitcount.itsvg.in)
