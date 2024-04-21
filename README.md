@@ -14,6 +14,7 @@
 🎓 With a Bachelor's in Computer Applications and ongoing pursuit of a Master's in Business Administration at Amity University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
+
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ## 🎓 Education:
