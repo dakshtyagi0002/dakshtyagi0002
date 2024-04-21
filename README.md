@@ -11,35 +11,35 @@
 # 💫 About Me:
 <p align="center">Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.</p>
 
-# 🎓 Education
-- Bachelor's in Computer Applications</p>
-+ 9.08 CGPA</p>
+# 🎓 Education:
 - Master's in Business Administration (ongoing)</p>
 + 8.58 CGPA</p>
+- Bachelor's in Computer Applications</p>
++ 9.08 CGPA</p>
 
 # 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/daksh-tyagi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/dakshtyagi0002">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="150" height="30">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" width="100" height="30">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="100" height="30">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" width="100" height="30">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="30">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" width="100" height="30">
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="100" height="30">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" width="100" height="30">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="100" height="30">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" width="100" height="30">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" width="100" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib" width="100" height="30">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 </p>
 
 <p align="center">
