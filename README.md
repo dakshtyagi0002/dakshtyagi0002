@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20%" alt="GIF">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="10%" alt="GIF">
 </p>
 
 ### ✍️ Random Dev Quote
