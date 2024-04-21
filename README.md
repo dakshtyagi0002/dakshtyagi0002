@@ -9,17 +9,18 @@
 </p>
 
 # 💫 About Me:
-<p style="text-align: justify;">
-  From a young age, I've been drawn to the challenge of unraveling puzzles and finding innovative solutions. Whether it was fixing broken gadgets or exploring the intricacies of technology, problem-solving has always been my passion. This early fascination laid the foundation for a career driven by curiosity and a relentless pursuit of excellence.
-</p>
+- **Passion for Problem-Solving**: From a young age, I've been captivated by the challenge of unraveling puzzles and devising innovative solutions. Whether it was repairing broken gadgets or delving into the intricacies of technology, problem-solving has always ignited my enthusiasm.
 
-<p style="text-align: justify;">
-  After completing my Bachelor's degree in Computer Applications, I embarked on a journey to broaden my horizons by pursuing a Master's in Business Administration at Amity University. This interdisciplinary education has not only honed my technical skills but also instilled in me a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
-</p>
+- **Foundation in Curiosity**: This early fascination laid the cornerstone for a career fueled by curiosity and a relentless pursuit of excellence.
 
-<p style="text-align: justify;">
-  Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Self-motivated, adaptable, and always eager to learn, I approach each endeavor with enthusiasm and determination.
-</p>
+- **Educational Journey**: Following the completion of my Bachelor's degree in Computer Applications, I embarked on an enriching journey to expand my horizons through a Master's in Business Administration at Amity University.
+
+- **Interdisciplinary Learning**: This interdisciplinary education not only sharpened my technical acumen but also fostered a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
+
+- **Drive for Growth and Excellence**: Motivated by an unwavering pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers.
+
+- **Adaptable and Enthusiastic**: Self-motivated, adaptable, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
+
 
 
 # 🎓 Education:
