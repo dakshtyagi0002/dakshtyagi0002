@@ -42,7 +42,7 @@
 ## 🌐 Socials:
 <p align="center">
 <a href="https://www.instagram.com/dakshtyagi0002/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="dakshtyagi0002" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/daksh-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Tyagi" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/daksh-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Tyagi" height="40" width="40" /></a>
 <a href="mailto:daksh22222@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="dakshtyagi0002" height="50" width="50" /></a>
 </p>
 
