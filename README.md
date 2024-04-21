@@ -9,11 +9,11 @@
 </p>
 
 # 💫 About Me:
-<p align="center">From a young age, I've been drawn to the challenge of unraveling puzzles and finding innovative solutions. Whether it was fixing broken gadgets or exploring the intricacies of technology, problem-solving has always been my passion. This early fascination laid the foundation for a career driven by curiosity and a relentless pursuit of excellence.
+From a young age, I've been drawn to the challenge of unraveling puzzles and finding innovative solutions. Whether it was fixing broken gadgets or exploring the intricacies of technology, problem-solving has always been my passion. This early fascination laid the foundation for a career driven by curiosity and a relentless pursuit of excellence.
 
 After completing my Bachelor's degree in Computer Applications, I embarked on a journey to broaden my horizons by pursuing a Master's in Business Administration at Amity University. This interdisciplinary education has not only honed my technical skills but also instilled in me a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
-Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Self-motivated, adaptable, and always eager to learn, I approach each endeavor with enthusiasm and determination.</p>
+Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Self-motivated, adaptable, and always eager to learn, I approach each endeavor with enthusiasm and determination.
 
 # 🎓 Education:
 - Master's in Business Administration (ongoing)</p>
