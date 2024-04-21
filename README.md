@@ -49,7 +49,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,tailwind,javascript,react,mysql,mongodb,firebase,git,github,vercel,netlify,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,c,cpp,py,html,mysql,ai,github,wordpress&perline=4" />
   </a>
 </p>
 
