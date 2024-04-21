@@ -9,7 +9,7 @@ Hey there! I'm passionate about unraveling complex problems and crafting innovat
 - Bachelor's in Computer Applications - 9.08 CGPA
 - Master's in Business Administration (ongoing) - 8.58 CGPA
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ducks0002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dakshtyagi0002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-tyagi) 
 
 # 💻 Tech Stack:
