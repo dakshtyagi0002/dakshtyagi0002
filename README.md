@@ -50,13 +50,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width="10%" alt="GIF">
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=dakshtyagi0002&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=dakshtyagi0002&icon=0&color=0" alt="Visitor Count">
-  </a>
 </p>
