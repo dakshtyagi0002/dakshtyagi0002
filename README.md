@@ -41,13 +41,13 @@
 
 ## 🌐 Socials:
 <p align="center">
-<a href="https://linkedin.com/in/daksh-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Tyagi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dakshtyagi0002/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="dakshtyagi0002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daksh-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Tyagi" height="30" width="40" /></a>
 <a href="mailto:daksh22222@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="dakshtyagi0002" height="30" width="40" /></a>
 </p>
 
 ## 💻 Languages & Tools:
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,tailwind,javascript,react,mysql,mongodb,firebase,git,github,vercel,netlify,figma,wordpress" />
   </a>
