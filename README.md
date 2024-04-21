@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# 💫 About Me:
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me: 
 - **Passion for Problem-Solving**: From a young age, I've been captivated by the challenge of unraveling puzzles and devising innovative solutions. Whether it was repairing broken gadgets or delving into the intricacies of technology, problem-solving has always ignited my enthusiasm.
 
 - **Foundation in Curiosity**: This early fascination laid the cornerstone for a career fueled by curiosity and a relentless pursuit of excellence.
@@ -20,8 +20,6 @@
 - **Drive for Growth and Excellence**: Motivated by an unwavering pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers.
 
 - **Adaptable and Enthusiastic**: Self-motivated, adaptable, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
-
-
 
 # 🎓 Education:
 - Master's in Business Administration (ongoing)</p>
