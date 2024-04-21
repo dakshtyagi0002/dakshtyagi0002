@@ -12,10 +12,10 @@
 <p align="center">Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.</p>
 
 # 🎓 Education
-<p align="center">- Bachelor's in Computer Applications</p>
-<p align="center">+ 9.08 CGPA</p>
-<p align="center">- Master's in Business Administration (ongoing)</p>
-<p align="center">+ 8.58 CGPA</p>
+- Bachelor's in Computer Applications</p>
++ 9.08 CGPA</p>
+- Master's in Business Administration (ongoing)</p>
++ 8.58 CGPA</p>
 
 # 🌐 Socials:
 <p align="center">
