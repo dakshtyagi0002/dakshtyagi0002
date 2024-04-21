@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=2000&pause=500&color=FFFFFF&background=36454F&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+My+name+is+Daksh!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=2000&pause=500&color=FFFFFF&background=070D0D&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+My+name+is+Daksh!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
   </a>
 </p>
 
@@ -14,6 +14,7 @@
 🎓 With a Bachelor's in Computer Applications and ongoing pursuit of a Master's in Business Administration at Amity University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
+![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ## 🎓 Education:
 - Master's in Business Administration (ongoing)
@@ -65,8 +66,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" alt="GIF">
 </p>
-
-![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ## ✍️ Random Dev Quote:
 <p align="center">
