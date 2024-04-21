@@ -1,7 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&duration=4000&pause=500&color=F7D3E8F1&background=000000F8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=870&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+![image](https://github.com/dakshtyagi0002/dakshtyagi0002/assets/166803695/d59968c4-b87d-46dd-8639-fb136b610819)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&duration=4000&pause=500&color=FFD700&background=000000F8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=870&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.
+
+# 🎓 Education
+- Bachelor's in Computer Applications - 9.08 CGPA
+- Master's in Business Administration (ongoing) - 8.58 CGPA
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ducks0002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dakshtyagi0002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-tyagi) 
