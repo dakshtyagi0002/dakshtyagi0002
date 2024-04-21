@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=2000&pause=500&color=F7E27DF1&background=000000F8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&duration=2000&pause=500&color=F7D3E8F1&background=000000F8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=870&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 
 
 
