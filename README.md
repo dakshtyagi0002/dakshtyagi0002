@@ -22,10 +22,26 @@
 - **Adaptable and Enthusiastic**: Self-motivated, adaptable, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
 
 # 🎓 Education:
-- Master's in Business Administration (ongoing)</p>
-  + 8.58 CGPA</p>
-- Bachelor's in Computer Applications</p>
-  + 9.08 CGPA</p>
+- Master's in Business Administration (ongoing)
+  + 8.58 CGPA
+- Bachelor's in Computer Applications
+  + 9.08 CGPA
+
+# 💼 Experience:
+- Riva Travels - June 2024 (upcoming)
+  + Product Assistant & Web Developer
+- Prodigy InfoTech - May 2024 (upcoming)
+  + Web Developer
+- Prodigy InfoTech - April 2024 (ongoing)
+  + Data Analyst
+- Expert Aquatech Services - June 2022
+  + Web Developer
+
+# 💼 Certifications:
+•	Green Belt in Lean Six Sigma Certification by KPMG
+•	Foundations of Project Management by Coursera 
+•	Fundamentals of Digital Marketing by Google Digital Academy (Skillshop)
+•	Published a Research Paper on “Securing the Chain - A Comprehensive Study of Blockchain Cybersecurity”
 
 # 🌐 Socials:
 <p align="center">
