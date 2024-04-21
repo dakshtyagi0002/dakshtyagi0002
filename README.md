@@ -9,7 +9,7 @@
 </p>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me: 
-👋 Hey there! I'm Daksh Tyagi, a passionate problem solver with a knack for unraveling puzzles and crafting innovative solutions. From fixing gadgets to exploring technology intricacies, problem-solving has always ignited my enthusiasm.
+👋 I'm a passionate problem solver with a knack for unraveling puzzles and crafting innovative solutions. From fixing gadgets to exploring technology intricacies, problem-solving has always ignited my enthusiasm.
 
 🎓 With a Bachelor's in Computer Applications and ongoing pursuit of a Master's in Business Administration at Amity University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
