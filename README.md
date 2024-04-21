@@ -8,16 +8,16 @@
   </a>
 </p>
 
-#<p align="center"># 💫 About Me:</p>
+# 💫 About Me:
 <p align="center">Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.</p>
 
-<p align="center"># 🎓 Education</p>
+# 🎓 Education
 <p align="center">- Bachelor's in Computer Applications</p>
 <p align="center">+ 9.08 CGPA</p>
 <p align="center">- Master's in Business Administration (ongoing)</p>
 <p align="center">+ 8.58 CGPA</p>
 
-<p align="center"># 🌐 Socials:</p>
+# 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/daksh-tyagi">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<p align="center"># 💻 Tech Stack:</p>
+# 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -46,7 +46,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20%" alt="GIF">
 </p>
 
-<p align="center">### ✍️ Random Dev Quote</p>
+### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
