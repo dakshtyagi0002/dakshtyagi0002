@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/dakshtyagi0002/dakshtyagi0002/assets/166803695/3fdd6e20-539c-4d85-8a95-b9dd5e564e82)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=3000&pause=500&color=FFFFFF&background=417C47AF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+My+name+is+Daksh!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=3000&pause=500&color=FFFFFF&background=00000017&center=true&vCenter=true&multiline=true&random=false&width=1000&height=110&lines=Hey!+My+name+is+Daksh!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hey there! I'm passionate about unraveling complex problems and crafting innovative solutions. From a young age, I've been drawn to tinkering with technology, whether it's fixing broken gadgets or diving into coding challenges.
