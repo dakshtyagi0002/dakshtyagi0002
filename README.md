@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=2000&pause=500&color=F79797&background=1C1C1CF8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=2000&pause=500&color=F7E27DF1&background=000000F8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=Hey!+I+am+Daksh+Tyagi!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+
+
 
 <!--
 **dakshtyagi0002/dakshtyagi0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
