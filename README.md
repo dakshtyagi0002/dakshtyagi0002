@@ -37,11 +37,11 @@
 - Expert Aquatech Services - June 2022
   + Web Developer
 
-# 💼 Certifications:
-•	Green Belt in Lean Six Sigma Certification by KPMG
-•	Foundations of Project Management by Coursera 
-•	Fundamentals of Digital Marketing by Google Digital Academy (Skillshop)
-•	Published a Research Paper on “Securing the Chain - A Comprehensive Study of Blockchain Cybersecurity”
+# 💫 Certifications/Publications:
+-	Green Belt in Lean Six Sigma Certification by KPMG
+-	Foundations of Project Management by Coursera 
+-	Fundamentals of Digital Marketing by Google Digital Academy (Skillshop)
+-	Published a Research Paper on “Securing the Chain - A Comprehensive Study of Blockchain Cybersecurity”
 
 # 🌐 Socials:
 <p align="center">
