@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align:center;">
 
 ![GitHub Banner](https://github.com/dakshtyagi0002/dakshtyagi0002/assets/166803695/3fdd6e20-539c-4d85-8a95-b9dd5e564e82)
 
