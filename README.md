@@ -8,20 +8,20 @@
   </a>
 </p>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me: 
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me: 
 👋 I'm a passionate problem solver with a knack for unraveling puzzles and crafting innovative solutions. From fixing gadgets to exploring technology intricacies, problem-solving has always ignited my enthusiasm.
 
 🎓 With a Bachelor's in Computer Applications and ongoing pursuit of a Master's in Business Administration at Amity University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
 
-# 🎓 Education:
+## 🎓 Education:
 - Master's in Business Administration (ongoing)
   + 8.58 CGPA
 - Bachelor's in Computer Applications
   + 9.08 CGPA
 
-# 💼 Experience:
+## 💼 Experience:
 - Riva Travels - June 2024 (upcoming)
   + Product Assistant & Web Developer
 - Prodigy InfoTech - May 2024 (upcoming)
@@ -31,13 +31,13 @@
 - Expert Aquatech Services - June 2022
   + Web Developer
 
-# 💫 Certifications/Publications:
+## 💫 Certifications/Publications:
 -	Green Belt in Lean Six Sigma Certification by KPMG
 -	Foundations of Project Management by Coursera 
 -	Fundamentals of Digital Marketing by Google Digital Academy (Skillshop)
 -	Published a Research Paper on “Securing the Chain - A Comprehensive Study of Blockchain Cybersecurity”
 
-# 🌐 Socials:
+## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/daksh-tyagi">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -66,7 +66,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" alt="GIF">
 </p>
 
-# ✍️ Random Dev Quote:
+## ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
